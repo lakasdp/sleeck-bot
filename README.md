@@ -1,2 +1,2 @@
 # sleeck-bot
-A discord bot by lakasdp
+A Discord bot to play music. Built with python.
